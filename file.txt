@@ -1,0 +1,5 @@
+Hello World, this is my first time I am opening file exporer using CLI. It is very cool and I am now updating this file to track the changes via Git and GitHub.
+
+Thank you for your time,
+
+c-aguillaume
