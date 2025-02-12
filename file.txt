@@ -1,7 +1,7 @@
-	Hello World, this is my first time I am opening file exporer using CLI. It is very cool and I am now updating this file to track the changes via Git and GitHub.
+	Hello World, this is my first time I am opening file explorer using CLI. It is very cool and I am now updating this file to track the changes via Git and GitHub.
 
 Thank you for your time,
 
 Signed,
 
-Mr. Nobody (Second Round)s
+Mr. Nobody (Second Round)
